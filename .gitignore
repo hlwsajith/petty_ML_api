@@ -1,0 +1,87 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.egg-info
+dist/
+build/
+*.egg
+*.egg-info
+*.swp
+*.bak
+*.tmp
+*.out
+*.vscode/
+.vscode/
+__init__.pyc
+*.pyc
+*.pyo
+*.egg
+*.egg-info
+dist/
+build/
+*.swp
+*.bak
+*.tmp
+*.out
+
+# PyTorch checkpoints
+*.pth
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Data and model files (specific extensions may vary)
+data/
+models/
+
+# Logs
+logs/
+*.log
+
+# System files and folders
+.DS_Store
+Thumbs.db
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment variables
+.env
+
+# Configuration files
+*.cfg
+
+# macOS specific files
+.AppleDouble
+.DS_Store
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows-specific files
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
